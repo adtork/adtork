@@ -1,7 +1,7 @@
 ### 
 <b>Intro</b>:
 <br>
-I specialize in azure networking, so almost all the content here will be related to Azure networking labs, tips, and tooling.
+I specialize in azure networking, so almost all the content here will be related to Azure networking labs, tips, and troubleshooting.
 <br>
 <br>
 <b>Azure...to be continued</b>
