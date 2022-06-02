@@ -7,7 +7,10 @@ https://github.com/adtork/Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 ## AVNM
 https://github.com/adtork/Azure-Virtual-Network-Manager-MicroHack
 
-In progress......
+In progress....
+
+## Tips
+Coming soon....
 
 <!--
 **adtork/adtork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
