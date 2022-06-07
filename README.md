@@ -2,7 +2,7 @@
 I specialize in azure networking, so almost all the content here will be related to Azure networking labs, tips, and troubleshooting.
 
 ## vWAN
-https://github.com/adtork/Virtual-Wan-Custom-Routing-BGP-over-IPSEC
+https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 
 ## AVNM
 https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
