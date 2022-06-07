@@ -5,7 +5,7 @@ I specialize in azure networking, so almost all the content here will be related
 https://github.com/adtork/Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 
 ## AVNM
-https://github.com/adtork/Azure-Virtual-Network-Manager-MicroHack
+https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 
 In progress....
 
