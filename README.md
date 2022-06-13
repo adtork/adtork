@@ -7,7 +7,6 @@ https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 ## AVNM
 https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 
-In progress....
 
 ## Tips
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
