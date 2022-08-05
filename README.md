@@ -10,9 +10,11 @@ https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 ## Tips
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 
+Kusto queries coming soon...
+
 ## ExpressRoute
 
-Kusto queries coming soon...
+
 
 <!--
 **adtork/adtork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
