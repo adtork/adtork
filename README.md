@@ -13,7 +13,7 @@ https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 Kusto queries coming soon...
 
 ## ExpressRoute
-
+https://github.com/adtork/ExpressRoute/blob/main/README.md
 
 
 <!--
