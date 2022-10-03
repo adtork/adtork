@@ -16,7 +16,7 @@ Kusto queries coming soon...
 https://github.com/adtork/ExpressRoute/blob/main/README.md
 
 ## Best Practices
-https://github.com/adtork/Best-Practices-/blob/main/README.md (In-Progress)
+https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md (In-Progress)
 
 
 <!--
