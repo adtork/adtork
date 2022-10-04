@@ -13,7 +13,7 @@ ARS (Coming Soon...)
 ## Tips
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 <br>
-Kusto queries coming soon...
+https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
 
 ## Articles
 ExpressRoute
