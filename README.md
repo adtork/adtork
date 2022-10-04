@@ -10,7 +10,7 @@ https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 <br>
 ARS: (Coming Soon...)
 
-## Tips
+## Tips/Best Pratices
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 <br>
 https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
