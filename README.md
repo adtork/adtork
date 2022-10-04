@@ -1,14 +1,14 @@
 ## Intro 
-I specialize in azure networking, so almost all the content here will be related to Azure networking labs, tips, and troubleshooting.
+I specialize in Azure networking, so almost all the content here will be related to Azure networking labs, tips, and best practices. 
 
 ## Labs
-vWAN
+vWAN:
 https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 <br>
-AVNM
+AVNM:
 https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 <br>
-ARS (Coming Soon...)
+ARS: (Coming Soon...)
 
 ## Tips
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
@@ -16,10 +16,10 @@ https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
 
 ## Articles
-ExpressRoute
+ExpressRoute:
 https://github.com/adtork/ExpressRoute-Fastpath
 <br>
-ExpressRoute/vWAN
+ExpressRoute/vWAN:
 https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md (In-Progress)
 
 
