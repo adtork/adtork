@@ -23,7 +23,7 @@ ExpressRoute:
 https://github.com/adtork/ExpressRoute-Fastpath
 <br>
 ExpressRoute/vWAN:
-https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md (In-Progress)
+https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
 
 
 <!--
