@@ -9,7 +9,7 @@ AVNM:
 https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 <br>
 ARS:
-https://github.com/adtork/Azure-Route-Server-Dual-Home (In Progress...)
+https://github.com/adtork/Azure-Route-Server-Dual-Home
 
 ## Tips/Best Pratices
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
