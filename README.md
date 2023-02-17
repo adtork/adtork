@@ -4,44 +4,44 @@ I specialize in Azure networking, so almost all the content here will be related
 ## Labs
 vWAN:
 <Br>
-      ○ https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
+      ° https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 <br>
-      ○ https://github.com/adtork/vWAN-with-Cisco-Meraki (Coming Soon!)
+      ° https://github.com/adtork/vWAN-with-Cisco-Meraki (Coming Soon!)
 <br>
-      ○ https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie (Coming Soon!)
+      ° https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie (Coming Soon!)
 <br>
 AVNM:
 <br>
-      ○ https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
+      ° https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 <br>
 ARS:
 <br>
-      ○ https://github.com/adtork/Azure-Route-Server-Dual-Home
+      ° https://github.com/adtork/Azure-Route-Server-Dual-Home
 
 ## Kusto/Monitoring/Loop Scripts
 Simple Loop Scripts:
 <br>
-      ○ https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
+      ° https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 <br>
 Kusto:
 <br>
-      ○ https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
+      ° https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
 
 
 ## Articles
 ExpressRoute/vWAN:
 <br>
-      ○ https://github.com/adtork/ExpressRoute-Fastpath
+      ° https://github.com/adtork/ExpressRoute-Fastpath
 <br>
-      ○ https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
+      ° https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
 <br>
 Network Perf:
 <br>
-      ○ https://github.com/adtork/Azure-Networking-Performance
+      ° https://github.com/adtork/Azure-Networking-Performance
 <br>
 Azure IP Addressing and SNAT:
 <br>
-      ○ https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
+      ° https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
 
 
 <!--
