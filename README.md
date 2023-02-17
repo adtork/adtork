@@ -3,36 +3,45 @@ I specialize in Azure networking, so almost all the content here will be related
 
 ## Labs
 vWAN:
-https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
+<Br>
+      ○ https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 <br>
       ○ https://github.com/adtork/vWAN-with-Cisco-Meraki (Coming Soon!)
 <br>
       ○ https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie (Coming Soon!)
 <br>
 AVNM:
-https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
+<br>
+      ○ https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 <br>
 ARS:
-https://github.com/adtork/Azure-Route-Server-Dual-Home
+<br>
+      ○ https://github.com/adtork/Azure-Route-Server-Dual-Home
 
 ## Kusto/Monitoring/Loop Scripts
-https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
+Simple Loop Scripts:
 <br>
-https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
+      ○ https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
+<br>
+Kusto:
+<br>
+      ○ https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
 
 
 ## Articles
-ExpressRoute:
-https://github.com/adtork/ExpressRoute-Fastpath
-<br>
 ExpressRoute/vWAN:
-https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
+<br>
+      ○ https://github.com/adtork/ExpressRoute-Fastpath
+<br>
+      ○ https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
 <br>
 Network Perf:
-https://github.com/adtork/Azure-Networking-Performance
 <br>
-Azure IP Addressing and SNAT
-https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
+      ○ https://github.com/adtork/Azure-Networking-Performance
+<br>
+Azure IP Addressing and SNAT:
+<br>
+      ○ https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
 
 
 <!--
