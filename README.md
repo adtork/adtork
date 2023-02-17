@@ -11,12 +11,11 @@ https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 ARS:
 https://github.com/adtork/Azure-Route-Server-Dual-Home
 
-## Tips/Best Pratices
+## Kusto/Monitoring/Loop Scripts
 https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
 <br>
 https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
-<br>
-https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
+
 
 ## Articles
 ExpressRoute:
@@ -27,6 +26,9 @@ https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
 <br>
 Network Perf:
 https://github.com/adtork/Azure-Networking-Performance
+<br>
+Azure IP Addressing and SNAT
+https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
 
 
 <!--
