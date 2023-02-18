@@ -35,6 +35,8 @@ ExpressRoute/vWAN:
 <br>
       ° https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
 <br>
+      ° https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md
+<br>
 Network Perf:
 <br>
       ° https://github.com/adtork/Azure-Networking-Performance
