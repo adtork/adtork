@@ -6,8 +6,6 @@ vWAN:
 <Br>
       ° https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
 <br>
-      ° https://github.com/adtork/vWAN-with-Cisco-Meraki (Coming Soon!)
-<br>
       ° https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie (Coming Soon!)
 <br>
 AVNM:
