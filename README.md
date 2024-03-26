@@ -8,11 +8,9 @@ vWAN:
 <br>
 -[vWAN with Bow-Tie](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Coming Soon!...)
 <br>
-<br>
 AVNM:
 <br>
 -[AVNM](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager)
-<br>
 <br>
 ARS:
 <br>
