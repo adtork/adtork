@@ -4,46 +4,48 @@ I specialize in Azure networking, so almost all the content here will be related
 ## Labs
 vWAN:
 <Br>
-      ° https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC
+[BGP over IPSEC](https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC).
 <br>
-      ° https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie (Coming Soon!)
+[vWAN with Bow-Tie](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Coming Soon!...)
+<br>
 <br>
 AVNM:
 <br>
-      ° https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
+[AVNM](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager).
+<br>
 <br>
 ARS:
 <br>
-      ° https://github.com/adtork/Azure-Route-Server-Dual-Home
+[ARS Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home).
 
 ## Kusto/Monitoring/Loop Scripts
 Simple Loop Scripts:
 <br>
-      ° https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md
+[Intro Loop Scripts](https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md).
 <br>
 Kusto:
 <br>
-      ° https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md (More to come....)
+[Kusto Net Queries](https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md). (More to come....)
 
 
 ## Articles
 ExpressRoute/vWAN:
 <br>
-      ° https://github.com/adtork/ExpressRoute-Fastpath
+[ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath).
 <br>
-      ° https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md
+[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md).
 <br>
-      ° https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md
+[What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md).
 <br>
-      ° https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md (In Progress!)
+[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md). (In Progress!)
 <br>
 Network Perf:
 <br>
-      ° https://github.com/adtork/Azure-Networking-Performance
+[Network Perf in Azure](https://github.com/adtork/Azure-Networking-Performance).
 <br>
 Azure IP Addressing and SNAT:
 <br>
-      ° https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md
+[Azure SNAT](https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md.)
 
 
 <!--
