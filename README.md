@@ -33,7 +33,7 @@ ExpressRoute/vWAN:
 <br>
 [ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath)
 <br>
-[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md).
+[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md)
 <br>
 [What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md)
 <br>
