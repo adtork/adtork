@@ -35,7 +35,7 @@ ExpressRoute/vWAN:
 <br>
 -[What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md)
 <br>
--[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md) (In Progress!)
+-[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md)
 <br>
 Network Perf:
 <br>
