@@ -6,7 +6,7 @@ vWAN:
 <Br>
 -[BGP over IPSEC](https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC)
 <br>
--[vWAN with Bow-Tie](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Coming Soon!...)
+-[vWAN with IPSEC Bow-Tie](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Coming Soon!...)
 <br>
 AVNM:
 <br>
