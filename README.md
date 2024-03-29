@@ -37,6 +37,8 @@ ExpressRoute/vWAN:
 <br>
 -[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md)
 <br>
+-[ExpressRoute Monitoring and Best Practices](https://github.com/adtork/ExpressRoute-Monitoring/blob/main/README.md). (On Deck...)
+<br>
 Network Perf:
 <br>
 -[Network Perf in Azure](https://github.com/adtork/Azure-Networking-Performance)
