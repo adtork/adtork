@@ -1,4 +1,4 @@
-## Intro 
+## Hello! 👨‍💻
 I specialize in Azure networking, so almost all the content here will be related to Azure networking labs, tips, and articles. Check out who I am following, my colleagues have stellar articles on simmilar content in Azure....Cheers! 😎
 
 ## Labs 🥼
