@@ -29,7 +29,7 @@ Kusto:
 ## Articles 📖
 ExpressRoute/vWAN 
 <br>
--[ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath)
+▪[ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath)
 <br>
 ▪[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md)
 <br>
@@ -37,7 +37,7 @@ ExpressRoute/vWAN
 <br>
 ▪[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md)
 <br>
--[ExpressRoute Monitoring and Best Practices](https://github.com/adtork/ExpressRoute-Monitoring/blob/main/README.md). (On Deck...)
+▪[ExpressRoute Monitoring and Best Practices](https://github.com/adtork/ExpressRoute-Monitoring/blob/main/README.md). (On Deck...)
 <br>
 Network Perf 
 <br>
