@@ -2,34 +2,36 @@
 I specialize in Azure networking, so almost all the content here will be related to Azure networking labs, tips, and articles. Check out who I am following, my colleagues (whom are much smarter then me!) have stellar articles on simmilar content in Azure....Cheers! 😎
 
 ## Labs 🥼
-vWAN:
+**vWAN:**
 <Br>
 ▪[BGP over IPSEC](https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC)
 <br>
-AVNM:
+**AVNM:**
 <br>
 ▪[AVNM](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager)
 <br>
-ARS:
+**ARS:**
 <br>
 ▪[ARS Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home)
 
 ## Kusto/Monitoring/Loop Scripts 1️⃣'s and 0️⃣'s
-Simple Loop Scripts:
+**Simple Loop Scripts:**
 <br>
 ▪[Intro Loop Scripts](https://github.com/adtork/Simple-Loop-Scripts/blob/main/README.md)
 <br>
-Kusto:
+**Kusto:**
 <br>
 ▪[Kusto Net Queries](https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md) (More to come....)
 
 
 ## Articles 📖
-ExpressRoute/vWAN 
+**ExpressRoute/vWAN:** 
 <br>
 ▪[ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath)
 <br>
 ▪[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md)
+<br>
+▪[vWAN to vWAN Connection Options](https://github.com/adtork/vWAN-to-vWAN-Connection-Options)
 <br>
 ▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie)
 <br>
@@ -39,11 +41,11 @@ ExpressRoute/vWAN
 <br>
 ▪[ExpressRoute Monitoring and Best Practices](https://github.com/adtork/ExpressRoute-Monitoring/blob/main/README.md). (Next in Line!...)
 <br>
-Network Perf 
+**Network Perf:** 
 <br>
 ▪[Network Perf in Azure](https://github.com/adtork/Azure-Networking-Performance)
 <br>
-Azure IP Addressing and SNAT 
+**Azure IP Addressing and SNAT:** 
 <br>
 ▪[Azure SNAT](https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md)
 
