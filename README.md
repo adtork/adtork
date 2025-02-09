@@ -6,8 +6,6 @@ vWAN:
 <Br>
 ▪[BGP over IPSEC](https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC)
 <br>
-▪[vWAN with IPSEC Bow-Tie](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Coming soon!...)
-<br>
 AVNM:
 <br>
 ▪[AVNM](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager)
@@ -32,6 +30,8 @@ ExpressRoute/vWAN
 ▪[ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath)
 <br>
 ▪[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md)
+<br>
+▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Working on it!)
 <br>
 ▪[What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md)
 <br>
