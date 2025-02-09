@@ -31,13 +31,13 @@ ExpressRoute/vWAN
 <br>
 ▪[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md)
 <br>
-▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Working on it!)
+▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Currently Working!)
 <br>
 ▪[What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md)
 <br>
 ▪[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md)
 <br>
-▪[ExpressRoute Monitoring and Best Practices](https://github.com/adtork/ExpressRoute-Monitoring/blob/main/README.md). (On deck...)
+▪[ExpressRoute Monitoring and Best Practices](https://github.com/adtork/ExpressRoute-Monitoring/blob/main/README.md). (Next in Line!...)
 <br>
 Network Perf 
 <br>
