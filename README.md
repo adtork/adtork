@@ -31,7 +31,7 @@ ExpressRoute/vWAN
 <br>
 ▪[MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations/blob/main/README.md)
 <br>
-▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie) (Currently Working!)
+▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie)
 <br>
 ▪[What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md)
 <br>
