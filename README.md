@@ -48,6 +48,8 @@ I specialize in Azure networking, so almost all the content here will be related
 **Azure IP Addressing and SNAT:** 
 <br>
 ▪[Azure SNAT](https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md)
+<br>
+**Other:**
 
 
 <!--
