@@ -49,8 +49,9 @@ I specialize in Azure networking, so almost all the content here will be related
 <br>
 ▪[Azure SNAT](https://github.com/adtork/Azure-IP-Addressing-and-SNAT/blob/main/README.md)
 <br>
-**Other:**
-
+**Other**
+<br>
+▪[Empty Vnet to Advertise Routes](https://github.com/adtork/Empty-Vnet-Trick)
 
 <!--
 **adtork/adtork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
