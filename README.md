@@ -9,7 +9,8 @@ I specialize in Azure networking, so almost all the content here will be related
 **AVNM:**
 <br>
 ▪[AVNM](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager)
-  ▪[AVNM Part Two]
+  <br>
+▪[AVNM Part Two](https://github.com/adtork/AVNM-Part-Two) (Just Starting this!)
 <br>
 **ARS:**
 <br>
@@ -22,7 +23,7 @@ I specialize in Azure networking, so almost all the content here will be related
 <br>
 **Kusto:**
 <br>
-▪[Kusto Net Queries](https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md) (More to come....)
+▪[Kusto Net Queries](https://github.com/adtork/ARG-Kusto-Queries/blob/main/README.md)
 
 
 ## Articles 📖
