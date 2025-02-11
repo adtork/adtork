@@ -9,6 +9,7 @@ I specialize in Azure networking, so almost all the content here will be related
 **AVNM:**
 <br>
 ▪[AVNM](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager)
+  ▪[AVNM Part Two]
 <br>
 **ARS:**
 <br>
