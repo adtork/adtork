@@ -37,6 +37,8 @@ I specialize in Azure networking, so almost all the content here will be related
 <br>
 ▪[vWAN with Express-Route Bow-Tie and HRP](https://github.com/adtork/vWAN-Dual-Hubs-with-ExR-Bow-Tie)
 <br>
+▪[vWAN with Routing Intent and Forced Tunneling](https://github.com/adtork/vWAN-Routing-Intent-with-Forced-Tunneling/blob/main/README.md)
+<br>
 ▪[What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-/blob/main/README.md)
 <br>
 ▪[vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios/blob/main/README.md)
