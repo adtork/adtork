@@ -30,6 +30,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - [vWAN Routing Intent + Forced Tunneling](https://github.com/adtork/vWAN-Routing-Intent-with-Forced-Tunneling) — Securing internet egress with routing intent
 - [What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-) — Demystifying the IPs you see on ExR resources
 - [vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios) — Common end-to-end traffic flows through vWAN
+- [vWAN Routing Limits & Mitigations](https://github.com/adtork/vwan-routing-limits) — Contention-point map of route limits across ER, S2S BGP, SD-WAN NVA, and VNet peering — with mitigation playbook
 - [ExR Monitoring & Best Practices](https://github.com/adtork/ExpressRoute-Monitoring) — *(coming soon)* monitoring guidance
 
 ## 🌐 Networking Fundamentals
