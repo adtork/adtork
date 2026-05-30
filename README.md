@@ -45,7 +45,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 
 ## 📝 Articles
 
-### ExpressRoute & Virtual WAN
+### ⚡ ExpressRoute & Virtual WAN
 
 | Article | TL;DR |
 |---|---|
@@ -58,7 +58,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 | [vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios) | Common end-to-end traffic flows through vWAN |
 | [ExR Monitoring & Best Practices](https://github.com/adtork/ExpressRoute-Monitoring) | *(coming soon)* monitoring guidance |
 
-### Networking Fundamentals
+### 🌐 Networking Fundamentals
 
 | Article | TL;DR |
 |---|---|
