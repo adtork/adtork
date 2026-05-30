@@ -4,8 +4,6 @@
 
 ### Senior Customer Engineer @ Microsoft · Azure Networking Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=620&lines=Azure+Virtual+WAN+%E2%9A%A1+ExpressRoute+%E2%9A%A1+Route+Server;Hub-and-Spoke+%E2%9A%A1+SD-WAN+%E2%9A%A1+BGP+over+IPsec;AVNM+%E2%9A%A1+NVA+design+%E2%9A%A1+Kusto+queries;Sharing+labs%2C+articles+%26+troubleshooting+tips)](https://git.io/typing-svg)
-
 [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)](https://azure.microsoft.com)
 [![Location](https://img.shields.io/badge/Seattle%2C+WA-2C7A7B?logo=googlemaps&logoColor=white&style=for-the-badge)](https://maps.google.com/?q=Seattle)
@@ -36,56 +34,6 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-## 🗺️ My Azure Networking Focus
-
-```mermaid
-mindmap
-  root((Azure<br/>Networking))
-    Connectivity
-      ExpressRoute
-      VPN Gateway
-      Virtual WAN
-      Private Link
-    Routing
-      BGP
-      Route Server
-      AVNM
-      Custom Route Tables
-    Hybrid
-      IPsec + BGP
-      SD-WAN / NVA
-      Dual-Home
-    Egress
-      NAT Gateway
-      Azure Firewall
-      Load Balancer
-    Observability
-      Kusto / ARG
-      Connection Monitor
-      NSG Flow Logs
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adtork&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adtork&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtork&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=adtork&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</a>
-
-</div>
 
 ## 🧪 Labs
 
