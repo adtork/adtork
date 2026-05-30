@@ -6,8 +6,7 @@
 
 [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.microsoft.com)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)](https://azure.microsoft.com)
-[![Location](https://img.shields.io/badge/Seattle%2C+WA-2C7A7B?logo=googlemaps&logoColor=white&style=for-the-badge)](https://maps.google.com/?q=Seattle)
-[![Followers](https://img.shields.io/github/followers/adtork?label=Follow&style=for-the-badge&color=24292e&logo=github)](https://github.com/adtork)
+
 
 </div>
 
