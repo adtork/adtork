@@ -6,8 +6,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 
 🔭 **Currently exploring:** AVNM Part Two · ExpressRoute monitoring · vWAN routing intent with forced tunneling
 💬 **Ask me about:** vWAN custom routing · ExR Fastpath · ARS dual-home · BGP-over-IPsec · NAT Gateway
-
-📣 **Connect:** [GitHub](https://github.com/adtork) · [MS Tech Community](https://techcommunity.microsoft.com/) · [Azure Networking Docs](https://learn.microsoft.com/azure/networking/)
+📣 **Connect:** [LinkedIn](https://www.linkedin.com/in/at-10993764/) · [GitHub](https://github.com/adtork) · [MS Tech Community](https://techcommunity.microsoft.com/) · [Azure Networking Docs](https://learn.microsoft.com/azure/networking/)
 
 ## 📋 Table of Contents
 - [Labs](#-labs)
