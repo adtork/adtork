@@ -18,7 +18,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - [Tech Stack](#-tech-stack)
 
 ## 🧪 Labs
-- [BGP over IPSec](https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC) — Custom vHub routing with Cisco CSR branch over IPsec + BGP, with `rt_yellow` / `rt_blue` route table isolation
+- [BGP over IPSec -Blue -Green Isolation](https://github.com/adtork/Lab-Virtual-Wan-Custom-Routing-BGP-over-IPSEC) — Custom vHub routing with Cisco CSR branch over IPsec + BGP, with `rt_yellow` / `rt_blue` route table isolation
 - [Azure Virtual Network Manager](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager) — Walk-throughs for Mesh, Hub-and-Spoke, and Hub-and-Spoke + Global Mesh
 - [AVNM Part Two](https://github.com/adtork/AVNM-Part-Two) — Advanced AVNM scenarios *(work in progress)*
 - [Route Server Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home) — Highly available ARS across two hubs with BGP + VNet-to-VNet IPsec
