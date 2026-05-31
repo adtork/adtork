@@ -22,6 +22,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - [Azure Virtual Network Manager](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager) — Walk-throughs for Mesh, Hub-and-Spoke, and Hub-and-Spoke + Global Mesh
 - [AVNM Part Two](https://github.com/adtork/AVNM-Part-Two) — Advanced AVNM scenarios *(work in progress)*
 - [Route Server Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home) — Highly available ARS across two hubs with BGP + VNet-to-VNet IPsec
+- [Dual vWAN Secure Hubs + BGP-over-IPsec](https://github.com/adtork/dual-vwan-secure-hubs-bgp-over-ipsec) — Dual-region secured vWAN hubs with Private Routing Intent and full bow-tie BGP-over-IPsec branches (Bicep / Terraform / CLI / PowerShell)
 
 ## 🏛️ Architectures
 - [AVNM vs Hub & Spoke vs Virtual WAN](https://github.com/adtork/azure-network-topology-comparison) — Side-by-side comparison, decision tree, cost breakdown, and a hybrid AVNM + Hub & Spoke reference architecture
