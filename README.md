@@ -22,7 +22,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - **🧭 AVNM —** [AVNM Part Two](https://github.com/adtork/AVNM-Part-Two) — Advanced AVNM scenarios *(work in progress)*
 - **🛣️ ARS —** [Route Server Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home) — Highly available ARS across two hubs with BGP + VNet-to-VNet IPsec
 
-## ⚡ ExpressRoute & Virtual WAN
+## ⚡ Hyrbrid Connectivity
 - [ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath) — When to use Fastpath and exactly what it bypasses
 - [MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations) — How to avoid the classic MSEE hairpin
 - [vWAN-to-vWAN Connection Options](https://github.com/adtork/vWAN-to-vWAN-Connection-Options) — Patterns for connecting multiple vWANs
