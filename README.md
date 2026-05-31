@@ -24,7 +24,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - [Route Server Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home) — Highly available ARS across two hubs with BGP + VNet-to-VNet IPsec
 
 ## 🏛️ Architectures
-- [AVNM vs Hub & Spoke vs Virtual WAN](https://github.com/adtork/azure-network-topology-comparison) — Side-by-side comparison, decision tree, cost breakdown, and a hybrid AVNM + Hub & Spoke reference architecture (Mermaid diagrams)
+- [AVNM vs Hub & Spoke vs Virtual WAN](https://github.com/adtork/azure-network-topology-comparison) — Side-by-side comparison, decision tree, cost breakdown, and a hybrid AVNM + Hub & Spoke reference architecture
 
 ## ⚡ Hybrid Connectivity
 - [ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath) — When to use Fastpath and exactly what it bypasses
