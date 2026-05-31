@@ -11,6 +11,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 
 ## 📋 Table of Contents
 - [Labs](#-labs)
+- [Architectures](#-architectures)
 - [Articles — ExpressRoute & Virtual WAN](#-expressroute--virtual-wan)
 - [Articles — Networking Fundamentals](#-networking-fundamentals)
 - [Tools & Snippets](#-tools--snippets)
@@ -21,6 +22,9 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - **🧭 AVNM —** [Azure Virtual Network Manager](https://github.com/adtork/Lab-Azure-Virtual-Network-Manager) — Walk-throughs for Mesh, Hub-and-Spoke, and Hub-and-Spoke + Global Mesh
 - **🧭 AVNM —** [AVNM Part Two](https://github.com/adtork/AVNM-Part-Two) — Advanced AVNM scenarios *(work in progress)*
 - **🛣️ ARS —** [Route Server Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home) — Highly available ARS across two hubs with BGP + VNet-to-VNet IPsec
+
+## 🏛️ Architectures
+- **🧭 Topology —** [AVNM vs Hub & Spoke vs Virtual WAN](https://github.com/adtork/azure-network-topology-comparison) — Side-by-side comparison, decision tree, cost breakdown, and a hybrid AVNM + Hub & Spoke reference architecture (Mermaid diagrams)
 
 ## ⚡ Hyrbrid Connectivity
 - [ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath) — When to use Fastpath and exactly what it bypasses
