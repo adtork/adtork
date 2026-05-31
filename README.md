@@ -26,7 +26,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 ## 🏛️ Architectures
 - [AVNM vs Hub & Spoke vs Virtual WAN](https://github.com/adtork/azure-network-topology-comparison) — Side-by-side comparison, decision tree, cost breakdown, and a hybrid AVNM + Hub & Spoke reference architecture (Mermaid diagrams)
 
-## ⚡ Hyrbrid Connectivity
+## ⚡ Hybrid Connectivity
 - [ExR Fastpath](https://github.com/adtork/ExpressRoute-Fastpath) — When to use Fastpath and exactly what it bypasses
 - [MSEE Hairpin Design Alternatives](https://github.com/adtork/MSEE-Hairpin-Design-Considerations) — How to avoid the classic MSEE hairpin
 - [vWAN-to-vWAN Connection Options](https://github.com/adtork/vWAN-to-vWAN-Connection-Options) — Patterns for connecting multiple vWANs
