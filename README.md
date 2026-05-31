@@ -31,6 +31,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - [What is this ExR IP?](https://github.com/adtork/ExpressRoute--What-is-this-IP-) — Demystifying the IPs you see on ExR resources
 - [vWAN Traffic Flow Patterns](https://github.com/adtork/vWAN-Traffic-Flow-Scenarios) — Common end-to-end traffic flows through vWAN
 - [vWAN Routing Limits & Mitigations](https://github.com/adtork/vwan-routing-limits) — Contention-point map of route limits across ER, S2S BGP, SD-WAN NVA, and VNet peering — with mitigation playbook
+- [Migrating off IPsec-over-ExpressRoute to ER-only](https://github.com/adtork/ipsec-over-er-to-er-only) — Why the IPsec overlay is the throughput chokepoint, what ER-only + FastPath buys you, and a 4-step cutover plan
 - [ExR Monitoring & Best Practices](https://github.com/adtork/ExpressRoute-Monitoring) — *(coming soon)* monitoring guidance
 
 ## 🌐 Networking Fundamentals
