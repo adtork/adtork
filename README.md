@@ -2,7 +2,7 @@
 
 **Senior Customer Engineer @ Microsoft · Azure Networking Specialist** 
 
-I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — helping enterprises design hub-and-spoke, Virtual WAN, ExpressRoute, hybrid connectivity, and SD-WAN integrations. This profile is a curated index of the **hands-on labs**, **architecture articles**, and **troubleshooting toolkits** I've built while working with customers. Most content is reproducible end-to-end so you can deploy, break, and learn from real Azure topologies.
+I'm a Senior Customer Engineer at Microsoft focused mostly on **Azure networking** — helping enterprises design hub-and-spoke, Virtual WAN, ExpressRoute, hybrid connectivity, and SD-WAN integrations. This profile is a curated index of the **hands-on labs**, **architecture articles**, and **troubleshooting toolkits** I've built while working with customers. Most content is reproducible end-to-end so you can deploy, break, and learn from real Azure topologies.
 
 🔭 **Currently exploring:** AVNM Part Two · ExpressRoute monitoring · vWAN routing intent with forced tunneling
 💬 **Ask me about:** vWAN custom routing · ExR Fastpath · ARS dual-home · BGP-over-IPsec · NAT Gateway
