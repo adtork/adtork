@@ -23,6 +23,7 @@ I'm a Senior Customer Engineer at Microsoft focused on **Azure networking** — 
 - [AVNM Part Two](https://github.com/adtork/AVNM-Part-Two) — Advanced AVNM scenarios *(work in progress)*
 - [Route Server Dual Home](https://github.com/adtork/Azure-Route-Server-Dual-Home) — Highly available ARS across two hubs with BGP + VNet-to-VNet IPsec
 - [Dual vWAN Secure Hubs + BGP-over-IPsec](https://github.com/adtork/dual-vwan-secure-hubs-bgp-over-ipsec) — Dual-region secured vWAN hubs with Private Routing Intent and full bow-tie BGP-over-IPsec branches using Strongwan (Bicep / Terraform / CLI / PowerShell)
+- [ILB With Apache Server via Vnet Peering](https://github.com/adtork/ILB-with-Apache-Server) -Client over Vnet peering two an ILB with two Apache Servers in the BE. NatGW provided soley for deployment of Apache Server
 
 ## 🏛️ Architectures
 - [AVNM vs Hub & Spoke vs Virtual WAN](https://github.com/adtork/azure-network-topology-comparison) — Side-by-side comparison, decision tree, cost breakdown, and a hybrid AVNM + Hub & Spoke reference architecture
