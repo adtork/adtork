@@ -1,6 +1,6 @@
 # Hi, I'm Adam 👋
 
-**Senior Customer Engineer @ Microsoft · Azure Networking Specialist** 
+**Senior Customer Engineer @Microsoft · Azure Networking Specialist** 
 
 I'm a Senior Customer Engineer at Microsoft focused mostly on **Azure networking** — helping enterprises design hub-and-spoke, Virtual WAN, ExpressRoute, hybrid connectivity, and SD-WAN integrations. This profile is a curated index of the **hands-on labs**, **architecture articles**, and **troubleshooting toolkits** I've built while working with customers. Most content is reproducible end-to-end so you can deploy, break, and learn from real Azure topologies.
 
