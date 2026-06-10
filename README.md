@@ -48,6 +48,7 @@ I'm a Senior Customer Engineer at Microsoft focused mostly on **Azure networking
 ## 🔧 Tools & Snippets
 - [Simple Loop Scripts](https://github.com/adtork/Simple-Loop-Scripts) — NetCat / Curl / Wget / Test-NetConnection / PSPing loop scripts for connectivity troubleshooting
 - [ARG Kusto Queries](https://github.com/adtork/ARG-Kusto-Queries) — A growing catalog of KQL queries for Azure Resource Graph inventory
+- [Compute Desk](https://github.com/adtork/compute-desk) — Copilot CLI extension: an Azure IaaS VM AI team of 20 specialist agents for SKU sizing, cost, performance, DR, scale sets, and more
 
 ## 🛠️ Tech Stack
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![Bicep](https://img.shields.io/badge/-Bicep-0089D6?logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![KQL](https://img.shields.io/badge/-KQL-0078D4?logo=microsoft&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
